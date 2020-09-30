@@ -1,4 +1,6 @@
 -----how to use the code-----
 open terminal
+cd to script directory
+type chmod +x install.sh
 
 this is a test file
